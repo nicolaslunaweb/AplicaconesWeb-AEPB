@@ -1,0 +1,94 @@
+[17-Jul-2013 04:40:35 UTC] PHP Fatal error:  Call to undefined method alumnos::numero_ficha() in /home/normalja/public_html/sistema/application/controllers/alumno.php on line 501
+[17-Jul-2013 04:40:38 UTC] PHP Fatal error:  Call to undefined method alumnos::numero_ficha() in /home/normalja/public_html/sistema/application/controllers/alumno.php on line 501
+[17-Jul-2013 04:40:40 UTC] PHP Fatal error:  Call to undefined method alumnos::numero_ficha() in /home/normalja/public_html/sistema/application/controllers/alumno.php on line 501
+[17-Jul-2013 04:40:41 UTC] PHP Fatal error:  Call to undefined method alumnos::numero_ficha() in /home/normalja/public_html/sistema/application/controllers/alumno.php on line 501
+[17-Jul-2013 04:40:56 UTC] PHP Fatal error:  Call to undefined method alumnos::numero_ficha() in /home/normalja/public_html/sistema/application/controllers/alumno.php on line 501
+[17-Jul-2013 04:42:15 UTC] PHP Fatal error:  Call to undefined method alumnos::numero_ficha() in /home/normalja/public_html/sistema/application/controllers/alumno.php on line 501
+[17-Jul-2013 04:44:45 UTC] PHP Fatal error:  Call to undefined method alumnos::numero_ficha() in /home/normalja/public_html/sistema/application/controllers/alumno.php on line 501
+[17-Jul-2013 04:44:48 UTC] PHP Fatal error:  Call to undefined method alumnos::numero_ficha() in /home/normalja/public_html/sistema/application/controllers/alumno.php on line 501
+[17-Jul-2013 04:44:49 UTC] PHP Fatal error:  Call to undefined method alumnos::numero_ficha() in /home/normalja/public_html/sistema/application/controllers/alumno.php on line 501
+[17-Jul-2013 04:44:50 UTC] PHP Fatal error:  Call to undefined method alumnos::numero_ficha() in /home/normalja/public_html/sistema/application/controllers/alumno.php on line 501
+[17-Jul-2013 04:44:51 UTC] PHP Fatal error:  Call to undefined method alumnos::numero_ficha() in /home/normalja/public_html/sistema/application/controllers/alumno.php on line 501
+[17-Jul-2013 04:46:20 UTC] PHP Fatal error:  Call to undefined method alumnos::numero_ficha() in /home/normalja/public_html/sistema/application/controllers/alumno.php on line 501
+[17-Jul-2013 04:46:25 UTC] PHP Fatal error:  Call to undefined method alumnos::numero_ficha() in /home/normalja/public_html/sistema/application/controllers/alumno.php on line 501
+[17-Jul-2013 04:46:42 UTC] PHP Fatal error:  Call to undefined method alumnos::numero_ficha() in /home/normalja/public_html/sistema/application/controllers/alumno.php on line 501
+[17-Jul-2013 04:48:39 UTC] PHP Fatal error:  Call to undefined method alumnos::numero_ficha() in /home/normalja/public_html/sistema/application/controllers/alumno.php on line 501
+[17-Jul-2013 04:48:40 UTC] PHP Fatal error:  Call to undefined method alumnos::numero_ficha() in /home/normalja/public_html/sistema/application/controllers/alumno.php on line 501
+[17-Jul-2013 04:48:43 UTC] PHP Fatal error:  Call to undefined method alumnos::numero_ficha() in /home/normalja/public_html/sistema/application/controllers/alumno.php on line 501
+[17-Jul-2013 04:49:14 UTC] PHP Fatal error:  Call to undefined method alumnos::numero_ficha() in /home/normalja/public_html/sistema/application/controllers/alumno.php on line 501
+[17-Jul-2013 04:49:49 UTC] PHP Fatal error:  Call to undefined method alumnos::numero_ficha() in /home/normalja/public_html/sistema/application/controllers/alumno.php on line 501
+[17-Jul-2013 04:50:08 UTC] PHP Fatal error:  Call to undefined method alumnos::numero_ficha() in /home/normalja/public_html/sistema/application/controllers/alumno.php on line 501
+[17-Jul-2013 04:51:46 UTC] PHP Fatal error:  Call to undefined method alumnos::numero_ficha() in /home/normalja/public_html/sistema/application/controllers/alumno.php on line 501
+[17-Jul-2013 04:54:20 UTC] PHP Fatal error:  Call to undefined method alumnos::numero_ficha() in /home/normalja/public_html/sistema/application/controllers/alumno.php on line 501
+[04-Nov-2013 05:30:53 Europe/Berlin] PHP Fatal error:  Call to a member function vista_dt_documentacion() on a non-object in /home/normalja/public_html/sistema/application/controllers/academico.php on line 380
+[12-Nov-2013 01:43:46 Europe/Berlin] PHP Fatal error:  Method name must be a string in /home/normalja/public_html/sistema/application/controllers/oficios.php on line 179
+[12-Nov-2013 02:10:13 Europe/Berlin] PHP Parse error:  syntax error, unexpected '{' in /home/normalja/public_html/sistema/application/views/oficios/listadeasistencia.php on line 83
+[12-Nov-2013 02:16:04 Europe/Berlin] PHP Parse error:  syntax error, unexpected T_ECHO in /home/normalja/public_html/sistema/application/views/oficios/listadeasistencia.php on line 134
+[12-Nov-2013 02:38:32 Europe/Berlin] PHP Parse error:  syntax error, unexpected $end, expecting T_VARIABLE or T_ENCAPSED_AND_WHITESPACE or T_DOLLAR_OPEN_CURLY_BRACES or T_CURLY_OPEN in /home/normalja/public_html/sistema/application/models/m_academico.php on line 13
+[12-Nov-2013 04:49:45 Europe/Berlin] PHP Parse error:  syntax error, unexpected $end in /home/normalja/public_html/sistema/application/views/oficios/formatolistadeevaluacion.php on line 84
+[13-Nov-2013 02:22:14 Europe/Berlin] PHP Parse error:  syntax error, unexpected $end in /home/normalja/public_html/sistema/application/views/common/menu.php on line 79
+[13-Nov-2013 03:56:03 Europe/Berlin] PHP Fatal error:  Call to undefined method User::d_fecha_apertura() in /home/normalja/public_html/sistema/application/views/common/menu.php on line 516
+[13-Nov-2013 03:56:06 Europe/Berlin] PHP Fatal error:  Call to undefined method User::d_fecha_apertura() in /home/normalja/public_html/sistema/application/views/common/menu.php on line 516
+[13-Nov-2013 03:57:50 Europe/Berlin] PHP Fatal error:  Call to undefined method User::d_fecha_apertura() in /home/normalja/public_html/sistema/application/views/common/menu.php on line 516
+[15-Nov-2013 02:43:50 Europe/Berlin] PHP Parse error:  syntax error, unexpected $end, expecting T_STRING or T_VARIABLE or '{' or '$' in /home/normalja/public_html/sistema/application/controllers/alumno.php on line 121
+[15-Nov-2013 02:47:15 Europe/Berlin] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/normalja/public_html/sistema/application/models/alumnos.php on line 28
+[15-Nov-2013 03:09:46 Europe/Berlin] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/normalja/public_html/sistema/application/models/alumnos.php on line 28
+[15-Nov-2013 03:10:17 Europe/Berlin] PHP Parse error:  syntax error, unexpected $end, expecting T_STRING in /home/normalja/public_html/sistema/application/models/alumnos.php on line 140
+[15-Nov-2013 03:22:20 Europe/Berlin] PHP Parse error:  syntax error, unexpected $end, expecting T_STRING or T_VARIABLE or '{' or '$' in /home/normalja/public_html/sistema/application/controllers/alumno.php on line 286
+[15-Nov-2013 03:33:04 Europe/Berlin] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/normalja/public_html/sistema/application/models/alumnos.php on line 267
+[15-Nov-2013 03:41:18 Europe/Berlin] PHP Fatal error:  Call to undefined method alumnos::lista_alumno() in /home/normalja/public_html/sistema/application/controllers/alumno.php on line 31
+[15-Nov-2013 03:41:20 Europe/Berlin] PHP Fatal error:  Call to undefined method alumnos::lista_alumno() in /home/normalja/public_html/sistema/application/controllers/alumno.php on line 31
+[15-Nov-2013 03:41:41 Europe/Berlin] PHP Fatal error:  Call to undefined method alumnos::lista_alumno() in /home/normalja/public_html/sistema/application/controllers/alumno.php on line 31
+[15-Nov-2013 03:41:43 Europe/Berlin] PHP Fatal error:  Call to undefined method alumnos::lista_alumno() in /home/normalja/public_html/sistema/application/controllers/alumno.php on line 31
+[15-Nov-2013 03:43:25 Europe/Berlin] PHP Fatal error:  Call to undefined method alumnos::lista_alumno() in /home/normalja/public_html/sistema/application/controllers/alumno.php on line 31
+[15-Nov-2013 03:43:26 Europe/Berlin] PHP Fatal error:  Call to undefined method alumnos::lista_alumno() in /home/normalja/public_html/sistema/application/controllers/alumno.php on line 31
+[15-Nov-2013 03:49:58 Europe/Berlin] PHP Fatal error:  Call to a member function create_links() on a non-object in /home/normalja/public_html/sistema/application/views/alumno_lista.php on line 45
+[15-Nov-2013 03:50:02 Europe/Berlin] PHP Fatal error:  Call to a member function create_links() on a non-object in /home/normalja/public_html/sistema/application/views/alumno_lista.php on line 45
+[15-Nov-2013 04:57:21 Europe/Berlin] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/normalja/public_html/sistema/application/views/alumno_lista.php on line 58
+[15-Nov-2013 04:57:24 Europe/Berlin] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/normalja/public_html/sistema/application/views/alumno_lista.php on line 58
+[15-Nov-2013 04:57:32 Europe/Berlin] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/normalja/public_html/sistema/application/views/alumno_lista.php on line 58
+[15-Nov-2013 04:57:48 Europe/Berlin] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/normalja/public_html/sistema/application/views/alumno_lista.php on line 58
+[15-Nov-2013 04:58:54 Europe/Berlin] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/normalja/public_html/sistema/application/views/alumno_lista.php on line 58
+[15-Nov-2013 05:00:00 Europe/Berlin] PHP Parse error:  syntax error, unexpected $end, expecting T_STRING or T_VARIABLE or '{' or '$' in /home/normalja/public_html/sistema/application/controllers/alumno.php on line 1055
+[15-Nov-2013 05:01:23 Europe/Berlin] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/normalja/public_html/sistema/application/views/alumno_lista.php on line 58
+[15-Nov-2013 05:03:19 Europe/Berlin] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/normalja/public_html/sistema/application/views/alumno_lista.php on line 58
+[15-Nov-2013 05:03:23 Europe/Berlin] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/normalja/public_html/sistema/application/views/alumno_lista.php on line 58
+[15-Nov-2013 05:20:27 Europe/Berlin] PHP Parse error:  syntax error, unexpected T_ECHO in /home/normalja/public_html/sistema/application/views/alumno_lista.php on line 58
+[15-Nov-2013 05:20:29 Europe/Berlin] PHP Parse error:  syntax error, unexpected T_ECHO in /home/normalja/public_html/sistema/application/views/alumno_lista.php on line 58
+[15-Nov-2013 05:23:37 Europe/Berlin] PHP Parse error:  syntax error, unexpected '}' in /home/normalja/public_html/sistema/application/models/alumnos.php on line 24
+[15-Nov-2013 05:23:39 Europe/Berlin] PHP Parse error:  syntax error, unexpected '}' in /home/normalja/public_html/sistema/application/models/alumnos.php on line 24
+[15-Nov-2013 05:26:29 Europe/Berlin] PHP Parse error:  syntax error, unexpected '}' in /home/normalja/public_html/sistema/application/models/alumnos.php on line 24
+[15-Nov-2013 05:26:30 Europe/Berlin] PHP Parse error:  syntax error, unexpected '}' in /home/normalja/public_html/sistema/application/models/alumnos.php on line 24
+[15-Nov-2013 05:26:31 Europe/Berlin] PHP Parse error:  syntax error, unexpected '}' in /home/normalja/public_html/sistema/application/models/alumnos.php on line 24
+[15-Nov-2013 05:26:52 Europe/Berlin] PHP Parse error:  syntax error, unexpected '}' in /home/normalja/public_html/sistema/application/models/alumnos.php on line 24
+[15-Nov-2013 05:27:00 Europe/Berlin] PHP Parse error:  syntax error, unexpected '}' in /home/normalja/public_html/sistema/application/models/alumnos.php on line 24
+[15-Nov-2013 05:33:00 Europe/Berlin] PHP Parse error:  syntax error, unexpected $end in /home/normalja/public_html/sistema/application/models/alumnos.php on line 13
+[15-Nov-2013 05:38:47 Europe/Berlin] PHP Fatal error:  Call to a member function create_links() on a non-object in /home/normalja/public_html/sistema/application/views/alumno_lista.php on line 60
+[15-Nov-2013 05:38:53 Europe/Berlin] PHP Fatal error:  Call to a member function create_links() on a non-object in /home/normalja/public_html/sistema/application/views/alumno_lista.php on line 60
+[15-Nov-2013 05:44:58 Europe/Berlin] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/normalja/public_html/sistema/application/views/alumno_lista.php on line 17
+[15-Nov-2013 05:45:10 Europe/Berlin] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/normalja/public_html/sistema/application/views/alumno_lista.php on line 17
+[15-Nov-2013 05:45:13 Europe/Berlin] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/normalja/public_html/sistema/application/views/alumno_lista.php on line 17
+[08-Dec-2013 21:38:22 Europe/Berlin] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/normalja/public_html/sistema/application/controllers/oficios.php on line 56
+[08-Dec-2013 22:37:55 Europe/Berlin] PHP Parse error:  syntax error, unexpected T_IS_SMALLER_OR_EQUAL in /home/normalja/public_html/sistema/application/controllers/oficios.php on line 83
+[08-Dec-2013 22:38:34 Europe/Berlin] PHP Parse error:  syntax error, unexpected ',' in /home/normalja/public_html/sistema/application/controllers/oficios.php on line 83
+[16-Dec-2013 22:40:29 Europe/Berlin] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/normalja/public_html/sistema/application/views/vista_horarios.php on line 30
+[19-Dec-2013 04:17:10 Europe/Berlin] PHP Parse error:  syntax error, unexpected T_STRING in /home/normalja/public_html/sistema/application/models/alumnos.php on line 40
+[19-Dec-2013 04:33:42 Europe/Berlin] PHP Parse error:  syntax error, unexpected T_STRING in /home/normalja/public_html/sistema/application/models/alumnos.php on line 39
+[19-Dec-2013 18:13:12 Europe/Berlin] PHP Fatal error:  Cannot redeclare class apuntadores in /home/normalja/public_html/sistema/application/models/apuntadores.php on line 0
+[19-Dec-2013 18:13:14 Europe/Berlin] PHP Fatal error:  Cannot redeclare class apuntadores in /home/normalja/public_html/sistema/application/models/apuntadores.php on line 0
+[19-Dec-2013 18:13:24 Europe/Berlin] PHP Fatal error:  Cannot redeclare class Apuntadores in /home/normalja/public_html/sistema/application/models/apuntadores.php on line 0
+[19-Dec-2013 18:14:37 Europe/Berlin] PHP Fatal error:  Call to undefined method alumnos::lista_alumno2() in /home/normalja/public_html/sistema/application/controllers/apuntadores.php on line 31
+[19-Dec-2013 18:14:46 Europe/Berlin] PHP Fatal error:  Call to undefined method alumnos::lista_alumno2() in /home/normalja/public_html/sistema/application/controllers/apuntadores.php on line 31
+[19-Dec-2013 18:25:14 Europe/Berlin] PHP Fatal error:  Cannot redeclare M_apuntadores::lista_alumno2() in /home/normalja/public_html/sistema/application/models/m_apuntadores.php on line 27
+[19-Dec-2013 18:25:56 Europe/Berlin] PHP Fatal error:  Cannot redeclare M_apuntadores::lista_alumno2() in /home/normalja/public_html/sistema/application/models/m_apuntadores.php on line 27
+[24-Dec-2013 07:21:40 Europe/Berlin] PHP Parse error:  syntax error, unexpected T_IF, expecting ')' in /home/normalja/public_html/sistema/application/models/alumnos.php on line 185
+[24-Dec-2013 07:21:46 Europe/Berlin] PHP Parse error:  syntax error, unexpected T_IF, expecting ')' in /home/normalja/public_html/sistema/application/models/alumnos.php on line 185
+[24-Dec-2013 07:22:12 Europe/Berlin] PHP Parse error:  syntax error, unexpected T_IF, expecting ')' in /home/normalja/public_html/sistema/application/models/alumnos.php on line 185
+[24-Dec-2013 07:22:15 Europe/Berlin] PHP Parse error:  syntax error, unexpected T_IF, expecting ')' in /home/normalja/public_html/sistema/application/models/alumnos.php on line 185
+[24-Dec-2013 07:23:35 Europe/Berlin] PHP Parse error:  syntax error, unexpected T_IF in /home/normalja/public_html/sistema/application/models/alumnos.php on line 185
+[24-Dec-2013 07:23:51 Europe/Berlin] PHP Parse error:  syntax error, unexpected T_IF, expecting ')' in /home/normalja/public_html/sistema/application/models/alumnos.php on line 312
+[24-Dec-2013 07:25:04 Europe/Berlin] PHP Parse error:  syntax error, unexpected T_IF, expecting ')' in /home/normalja/public_html/sistema/application/models/alumnos.php on line 323
+[24-Dec-2013 07:53:53 Europe/Berlin] PHP Parse error:  syntax error, unexpected '=' in /home/normalja/public_html/sistema/application/controllers/alumno.php on line 924
+[24-Dec-2013 07:53:57 Europe/Berlin] PHP Parse error:  syntax error, unexpected '=' in /home/normalja/public_html/sistema/application/controllers/alumno.php on line 924
+[27-Dec-2013 01:53:36 Europe/Berlin] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/normalja/public_html/sistema/application/views/oficios/lista_calificacionesporsemestre.php on line 92
+[27-Dec-2013 01:53:38 Europe/Berlin] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/normalja/public_html/sistema/application/views/oficios/lista_calificacionesporsemestre.php on line 92
